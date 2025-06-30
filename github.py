@@ -3,8 +3,10 @@ def datos_alexander():
   print("Mi nombre es Alexander Garrido y tengo 19 años")
 def datos_martin():
     print("Mi nombre es Martin Bustamante y tengo 19 años")
+
 def datos_sebastian():
     print("Mi nombre es Sebastian Nuñez y tengo 18 años")
+
 
 
 # Menú base del programa
