@@ -1,3 +1,10 @@
+
+def datos_alexander():
+  print("Mi nombre es Alexander Garrido y tengo 19 años")
+def datos_martin():
+    print("Mi nombre es Martin Bustamante y tengo 19 años")
+
+
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
@@ -19,7 +26,4 @@ while True:
     else:
         print("Opcion invalida.")
 
-def datos_alexander():
-  print("Mi nombre es Alexander Garrido y tengo 19 años")
-def datos_martin():
-    print("Mi nombre es Martin Bustamante y tengo 19 años")
+
