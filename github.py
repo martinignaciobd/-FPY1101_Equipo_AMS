@@ -13,7 +13,7 @@ while True:
     elif op == "1":
         datos_alexander() #funcion integrante 1
     elif op == "2":
-        pass #funcion integrante 2
+        datos_martin() #funcion integrante 2
     elif op == "3":
         pass #funcion integrante 3
     else:
@@ -21,3 +21,5 @@ while True:
 
 def datos_alexander():
   print("Mi nombre es Alexander Garrido y tengo 19 años")
+def datos_martin():
+    print("Mi nombre es Martin Bustamante y tengo 19 años")
